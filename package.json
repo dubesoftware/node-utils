@@ -1,0 +1,20 @@
+{
+  "name": "node-utils",
+  "version": "1.0.0",
+  "description": "A collection of Node.js utility modules",
+  "homepage": "https://github.com/dubesoftware/node-utils#readme",
+  "bugs": {
+    "url": "https://github.com/dubesoftware/node-utils/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubesoftware/node-utils.git"
+  },
+  "license": "ISC",
+  "author": "@dubesoftware",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
