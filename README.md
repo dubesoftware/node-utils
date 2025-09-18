@@ -1,2 +1,2 @@
 # node-utils
-A collection of Node.js utility modules
+A collection of Node.js utility modules.
