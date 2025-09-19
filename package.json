@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "@dubesoftware",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "list-subfolders.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
